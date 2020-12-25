@@ -3,7 +3,6 @@ layout: post
 title:  "Game Theory and Oligopolies"
 date:   2020-12-20 11:53:59 +0000
 categories: economics
-#youtubeId: 2d_dtTZQyUM
 ---
 
 When examining Oligopolies we often use the kinked demand curve to show how firms might face a dual demand curve for its product based on the likely reactions of other firms to a change in its price.  Game Theory can also be used by economists to gain a more detailed understanding of how oligopolies might operate in their market.
@@ -12,8 +11,7 @@ When examining Oligopolies we often use the kinked demand curve to show how firm
 
 John Forbes Nash is renowned for his work in game theory, winning the Nobel Prize for Economics in 1994.  The film clip of **A Beautiful Mind** – the bar scene – illustrates the need to think about the response of others where it highlights **interdependence**. Interdependence is vital for understanding oligopoly theory – that firms react to decisions made by other firms.
 
-{% include youtubePlayer.html id="2d_dtTZQyUM" %}
-
+{% include youtube.html id="2d_dtTZQyUM" %}
 
 Game Theory is in short, the study of how individuals (or organisations) apply strategy to achieve an outcome which is to their benefit — namely, a pay-off.  One of the criticisms of the kinked demand curve used in Oligopoly theory is that it does not take into account the interdependence between firms.  Game Theory looks at this interdependence in much more detail.  Game Theory considers the strategic interaction when one player's decision depends on what the other player does.  What the opponent does also depends on what s/he thinks the first player will do.
 
@@ -163,7 +161,8 @@ In each of these three Nash Equilibrium outcomes a player cannot do better on hi
 
 Watch the following episode from Golden Balls to see what can happen...
 
-{% include youtubePlayer.html id="S0qjK3TWZE8" %}
+**youtube**
+{% include youtube.html id="S0qjK3TWZE8" %}
 
 A result of a split (top left quadrant) is unusual. How did Nick manage to get to this position with Abraham?  It is possible that Nick knew something about Game Theory because he changed the game; he changed the payoff matrix.  
 
