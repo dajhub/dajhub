@@ -13,6 +13,7 @@ John Forbes Nash is renowned for his work in game theory, winning the Nobel Priz
 
 {% include youtube.html id="2d_dtTZQyUM" %}
 
+
 Game Theory is in short, the study of how individuals (or organisations) apply strategy to achieve an outcome which is to their benefit — namely, a pay-off.  One of the criticisms of the kinked demand curve used in Oligopoly theory is that it does not take into account the interdependence between firms.  Game Theory looks at this interdependence in much more detail.  Game Theory considers the strategic interaction when one player's decision depends on what the other player does.  What the opponent does also depends on what s/he thinks the first player will do.
 
 A game consists of:
@@ -161,8 +162,9 @@ In each of these three Nash Equilibrium outcomes a player cannot do better on hi
 
 Watch the following episode from Golden Balls to see what can happen...
 
-**youtube**
+
 {% include youtube.html id="S0qjK3TWZE8" %}
+
 
 A result of a split (top left quadrant) is unusual. How did Nick manage to get to this position with Abraham?  It is possible that Nick knew something about Game Theory because he changed the game; he changed the payoff matrix.  
 
