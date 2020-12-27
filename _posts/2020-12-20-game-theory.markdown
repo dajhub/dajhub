@@ -182,11 +182,3 @@ We have seen situations where there is one Nash Equilibrium and also multiple Na
 ![No Nash Equilibrium]({{ "/assets/img/game-theory/no-nash-eqm.png" | absolute_url }})
 
 If the players end up in the **top left quadrant**, player B would want to switch to Right. If they end up in the **top right quadrant** player A wants to switch to Bottom. Furthermore, if they end up in the **bottom left quadrant** player A would rather have taken Top, and if they end up in the **bottom right quadrant** player B would be better off choosing Left. There is no dominant strategy and none of the four options is a Nash equilibrium.
-
-<div>
-<small>
-    {% for tag in page.tags %}
-    <a href="/tags/{{ tag }}/">{{ tag }}</a>
-    {% endfor %}
-</small>
-</div>
