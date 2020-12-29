@@ -58,3 +58,6 @@ plugins:
 paginate: 8
 
 google_analytics: UA-173212304-1
+
+social_media:
+  - { media_name: GitHub, fa_icon: fa-github-square, profile_link: "https://github.com/dajhub" }

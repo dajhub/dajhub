@@ -6,6 +6,8 @@ categories: post
 tags: economics
 ---
 
+* TOC
+{:toc}
 When examining Oligopolies we often use the kinked demand curve to show how firms might face a dual demand curve for its product based on the likely reactions of other firms to a change in its price.  Game Theory can also be used by economists to gain a more detailed understanding of how oligopolies might operate in their market.
 
 ## Game Theory and Oligopolies
