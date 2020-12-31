@@ -62,4 +62,4 @@ google_analytics: UA-173212304-1
 
 social_media:
   - { media_name: GitHub, fa_icon: fa-github-square, profile_link: "https://github.com/dajhub" }
-  - { media_name: Mail, fa_icon: fa-envelope, profile_link: "mailto:{{ site.email }}"}
+  - { media_name: Mail, fa_icon: fa-envelope, profile_link: "mailto: dajhub63@gmail.com"}
