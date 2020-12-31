@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/dajhub" # the subpath of your site, e.g. /blog
 url: "https://dajhub.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
+author: David
 github_username:  dajhub
 
 # Build settings
@@ -61,3 +62,4 @@ google_analytics: UA-173212304-1
 
 social_media:
   - { media_name: GitHub, fa_icon: fa-github-square, profile_link: "https://github.com/dajhub" }
+  - { media_name: Mail, fa_icon: fa-envelope, profile_link: "mailto:{{ site.email }}"}
