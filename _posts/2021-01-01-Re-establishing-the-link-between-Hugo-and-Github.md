@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hugo: Re-establishing a link with github"
+title:  "Re-establishing the link between Hugo and Github"
 date:   2020-12-30 11:53:59 +0000
 categories: post
 tags: [hugo, github]
