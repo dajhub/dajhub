@@ -22,12 +22,12 @@ title: dajhub
 email: dajhub63@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"/blog
   Just a personal blog with random posts which some may find of use...
-baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://dajhub.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #permalink: /:year/:month/:day/:title
 author: David
-github_username: dajhub
+github_username:  dajhub
 
 # Build settings
 theme: minima
