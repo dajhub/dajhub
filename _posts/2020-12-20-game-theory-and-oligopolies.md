@@ -2,7 +2,7 @@
 layout: post
 title:  "Game Theory and Oligopolies"
 date:   2020-12-20 11:53:59 +0000
-categories: post
+#categories: post
 tags: economics
 ---
 
