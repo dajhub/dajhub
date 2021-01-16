@@ -12,7 +12,7 @@ When examining Oligopolies we often use the kinked demand curve to show how firm
 
 ## Game Theory and Oligopolies
 
-John Forbes Nash is renowned for his work in game theory, winning the Nobel Prize for Economics in 1994.  The film clip of **A Beautiful Mind** – the bar scene – illustrates the need to think about the response of others where it highlights **interdependence**. Interdependence is vital for understanding oligopoly theory – that firms react to decisions made by other firms.
+John Forbes Nash was renowned for his work in game theory, winning the Nobel Prize for Economics in 1994.  The film clip of **A Beautiful Mind** – the bar scene – illustrates the need to think about the response of others where it highlights **interdependence**. Interdependence is vital for understanding oligopoly theory – that firms react to decisions made by other firms.
 
 {% include youtube.html id="2d_dtTZQyUM" %}
 <br>
