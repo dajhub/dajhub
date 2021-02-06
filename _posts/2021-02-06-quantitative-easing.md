@@ -7,7 +7,7 @@ tags: economics
 
 * TOC
 {:toc}
-This article looks at why Quantitative Easing (QE) is used by governments, how it works, and some of the criticisms levelled at QE.
+This post looks at why Quantitative Easing (QE) is used by governments, how it works, and some of the criticisms levelled at QE.
 
 ## 1.0 The Bond Market & Interest Rates
 
