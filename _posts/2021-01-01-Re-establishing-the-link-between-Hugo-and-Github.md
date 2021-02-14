@@ -6,7 +6,7 @@ date:   2020-12-30 11:53:59 +0000
 tags: [hugo, github]
 ---
 
-This article assumes you have already built a site using Hugo, that you have a local version of your site and are pushing changes to Github where it is being hosted.  I am fairly new to GitHub so when changing computers I was a little uncertain on how to re-establish the link with GitHub.  The following are the steps I went through.
+This post assumes you have already built a site using Hugo, that you have a local version of your site and are pushing changes to Github where it is being hosted.  I am fairly new to GitHub so when changing computers I was a little uncertain on how to re-establish the link with GitHub.  The following are the steps I went through.
 
 ## Background
 Here is some additional information on my set-up.  I use a script (`./deploy.sh`) to push changes through to GitHub and this can be found on the [Hugo site](https://gohugo.io/hosting-and-deployment/hosting-on-github/#put-it-into-a-script).  My local folder structure, which I think is pretty standard, is shown below and includes the **deploy.sh** script. The script pushes the Public folder through to my GitHub repository, which is where this site is hosted.
