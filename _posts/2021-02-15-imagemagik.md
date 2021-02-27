@@ -5,7 +5,7 @@ date:   2021-02-15 11:53:59 +0000
 tags: linux
 ---
 
-ImageMagick is a free and open-source software which allows you to use the command line to convert and modify images in many formats including GIF, JPEG, and PNG. Using the terminal to manipulate images is, on the whole, straightforward and can save a lot of time. 
+ImageMagick is free and open-source software which allows you to use the command line to convert and modify images in many formats including GIF, JPEG, and PNG. Using the terminal to manipulate images is, on the whole, straightforward and can save a lot of time. 
 
 In Fedora you will first need to install ImageMagick:
 
