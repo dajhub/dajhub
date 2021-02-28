@@ -25,7 +25,7 @@ tags: linux
 3. Finally, the Jekyll gem's can be installed:
 
    ~~~
-   gem install jekyll bundler
+   $ gem install jekyll bundler
    ~~~
 
 
@@ -36,7 +36,7 @@ tags: linux
    If you now try to create a new site with this command:
 
    ~~~
-   jekyll new blog
+   $ jekyll new blog
    ~~~
 
    a message appears: `bash: jekyll: command not found`
@@ -48,23 +48,20 @@ tags: linux
    $ PATH="$PATH:$(ruby -e 'puts Gem.user_dir')/bin"
    ~~~
 
-   Obviously you need to change the path in the first command to suite your own setup/.
+   Obviously you need to change the path in the first command to suite your own setup.
 
    If you now run:
 
    ~~~
-   jekyll new blog
+   $ jekyll new blog
    ~~~
 
    the Jekyll folder will be installed and can be found in your home directory:
 
    ![Jekyll-folder]({{"/assets/img/jekyll-arch/jekyll-folder.png" | absolute_url }})
 
-   ----
-
    
-
-   Having created the Jekyll folder, blog, in your Home directory you can build the default site and check that it works.  In the terminal change the directory to `blog` (or whatever your blog folder is called) and then build:
+   Having created the Jekyll folder, 'blog', in your Home directory you can build the default site and check that it works.  In the terminal change the directory to `blog` (or whatever your blog folder is called) and then build:
 
    ~~~
    $ cd blog
