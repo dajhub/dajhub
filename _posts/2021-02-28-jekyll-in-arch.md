@@ -50,13 +50,13 @@ tags: linux
 
    Obviously you need to change the path in the first command to suite your own setup.
 
-   If you now run:
+   Run:
 
    ~~~
    $ jekyll new blog
    ~~~
 
-   the Jekyll folder will be installed and can be found in your home directory:
+   The new Jekyll folder will be installed and can be found in your home directory:
 
    ![Jekyll-folder]({{"/assets/img/jekyll-arch/jekyll-folder.png" | absolute_url }})
 
