@@ -5,7 +5,7 @@ date:   2021-02-28 10:53:59 +0000
 tags: linux
 ---
 
-[Jekyll](https://jekyllrb.com/) is a static open source site generator which I've use for a while in conjunction with free hosting on [GitHub](https://github.com/).  It's a great combination for hosting a free site/blog.  The instructions on the Jekyll site make it easy to install.  I've used the Jekyll instructions to install it on both Fedora and Ubuntu with few problems.  However, the set-up was a little more problematic.  These are the steps I went through to install Jekyll on Arch.
+[Jekyll](https://jekyllrb.com/) is a static open source site generator which I've used for a while in conjunction with free hosting on [GitHub](https://github.com/).  It's a great combination for hosting a free site/blog.  The instructions on the Jekyll site make it easy to install.  I've used the Jekyll instructions to install it on both Fedora and Ubuntu with few problems.  However, the set-up was a little more problematic.  These are the steps I went through to install Jekyll on Arch.
 
 1. Install the [Jekyll prerequisites](https://jekyllrb.com/docs/installation/other-linux/#archlinux) using your terminal:
 
