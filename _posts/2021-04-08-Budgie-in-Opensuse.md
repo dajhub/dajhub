@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Budgie in Opensuse"
+title:  "Budgie Desktop in Opensuse"
 date:   2021-04-08 09:53:59 +0000
 tags: linux
 ---
@@ -11,32 +11,32 @@ The Budgie desktop orginates from [Solus OS](https://getsol.us/solus/about/) and
 
 The steps for installing Opensuse Tumbleweed from your USB:
 
-1. On the first screen select "Installation"
+1) On the first screen select "Installation"
 
-2. Progress through the installation screens until the following screen:
+2) Progress through the installation screens until the following screen:
 
 ![online-repository]({{"//assets/img/opensuse-budgie/online-repository.png" | absolute_url }})
 
 	Select 'Generic Desktop'.  After this step follow through the remaining screens to setup your installation, e.g. username.
 
-3. Login in to the new generic desktop which will be icewm window manager:
+3) Login in to the new generic desktop which will be icewm window manager:
 
 ![icewm]({{"//assets/img/opensuse-budgie/icewm.png" | absolute_url }})
 
 
-4. The first step in any fresh install is to update your system. Open a terminal (e.g. xterm) and enter the following command:
+4) The first step in any fresh install is to update your system. Open a terminal (e.g. xterm) and enter the following command:
 
 ~~~
 $ sudo zypper dup
 ~~~
 
-5.  At this stage it is worth  installing [Packman](https://en.opensuse.org/SDB:Installing_codecs_from_Packman_repositories).  Packman conveniently groups several third party repositories together and is the largest group of third party packages built for openSUSE. Packman can be easily enabled via the Terminal.
+5)  At this stage it is worth  installing [Packman](https://en.opensuse.org/SDB:Installing_codecs_from_Packman_repositories).  Packman conveniently groups several third party repositories together and is the largest group of third party packages built for openSUSE. Packman can be easily enabled via the Terminal.
 
 ~~~
 $ sudo zypper addrepo -cfp 90 'https://ftp.gwdg.de/pub/linux/misc/packman/suse/openSUSE_Tumbleweed/' packman4
 ~~~
 
-6. After adding the Packman repository, it's necessary to refresh and move package updates to the Packman repository (the latter helps to avoid conflicts when packages are updated):
+6) After adding the Packman repository, it's necessary to refresh and move package updates to the Packman repository (the latter helps to avoid conflicts when packages are updated):
 
 ~~~
 $ sudo zypper refresh
