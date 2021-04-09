@@ -17,7 +17,7 @@ The steps for installing Opensuse Tumbleweed from your USB:
 
 ![online-repository]({{"//assets/img/opensuse-budgie/online-repository.png" | absolute_url }})
 
-Select 'Generic Desktop'.  After this step follow through the remaining screens to setup your installation, e.g. username.
+	Select 'Generic Desktop'.  After this step follow through the remaining screens to setup your installation, e.g. username.
 
 3. Login in to the new generic desktop which will be icewm window manager:
 
@@ -55,7 +55,8 @@ Once the packages have been installed log out of the desktop.  Once you have log
 
 ![budgie-login]({{"//assets/img/opensuse-budgie/login-budgie.png" | absolute_url }})
 
-When you now log in you should now see your Budgie desktop:
+When you now log in you should see your Budgie desktop:
 
 ![budgie-desktop]({{"//assets/img/opensuse-budgie/budgie-desktop.png" | absolute_url }})
 
+You may, at this point, want to look to change the appearance of your new desktop.
