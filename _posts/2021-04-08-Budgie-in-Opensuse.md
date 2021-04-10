@@ -33,7 +33,7 @@ $ sudo zypper dup
 5)  At this stage it is worth  installing [Packman](https://en.opensuse.org/SDB:Installing_codecs_from_Packman_repositories).  Packman conveniently groups several third party repositories together and is the largest group of third party packages built for openSUSE. Packman can be easily enabled via the Terminal.
 
 ~~~
-$ sudo zypper addrepo -cfp 90 'https://ftp.gwdg.de/pub/linux/misc/packman/suse/openSUSE_Tumbleweed/' packman4
+$ sudo zypper addrepo -cfp 90 'https://ftp.gwdg.de/pub/linux/misc/packman/suse/openSUSE_Tumbleweed/' packman
 ~~~
 
 6) After adding the Packman repository, it's necessary to refresh and move package updates to the Packman repository (the latter helps to avoid conflicts when packages are updated):
