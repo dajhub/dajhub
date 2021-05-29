@@ -51,7 +51,7 @@ To install the [budgie desktop](https://en.opensuse.org/Portal:Budgie) open a te
 $ sudo zypper install budgie-desktop
 ~~~
 
-Once the packages have been installed log out of the desktop.  Once you have logged out you can then select the Budgie desktop:
+Once the packages have been installed log out of the desktop.  Having logged out you can then select the Budgie desktop:
 
 ![budgie-login]({{"//assets/img/opensuse-budgie/login-budgie.png" | absolute_url }})
 
