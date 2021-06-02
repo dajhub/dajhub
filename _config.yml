@@ -57,7 +57,7 @@ plugins:
 #   - vendor/ruby/
 
 # Added by DAJ:
-paginate: 8
+paginate: 5
 
 google_analytics: UA-173212304-1
 
