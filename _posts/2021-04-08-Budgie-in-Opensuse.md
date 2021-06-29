@@ -5,7 +5,7 @@ date:   2021-04-08 09:53:59 +0000
 tags: linux
 ---
 
-The Budgie desktop orginates from [Solus OS](https://getsol.us/solus/about/) and is a fantastic distribution.  It can also be installed on other operating systems.  This post looks at how to install the Budgie desktop on [Opensuse Tumbleweed](https://get.opensuse.org/tumbleweed).  It assumes that you have downloaded the ISO and installed on a USB using, for example, [Etcher](https://www.etcher.net/).
+Budgie Desktop is the default desktop on the [Solus Linux distrubution](https://getsol.us/solus/about/) and is a fantastic desktop.  It can also be installed on other operating systems.  This post looks at how to install the Budgie desktop on [Opensuse Tumbleweed](https://get.opensuse.org/tumbleweed).  It assumes that you have downloaded the ISO and installed on a USB using, for example, [Etcher](https://www.etcher.net/).
 
 ## Installing Opensuse Tumbleweed
 
