@@ -9,7 +9,7 @@ Budgie Desktop is the default desktop on the [Solus Linux distrubution](https://
 
 ## Installing Opensuse Tumbleweed
 
-The steps for installing Opensuse Tumbleweed from your USB:
+The steps to installing Opensuse Tumbleweed from your USB:
 
 1) On the first screen select "Installation"
 
