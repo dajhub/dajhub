@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David
-- 👀 I’m interested in learning about window managers and how to configure them... it's just a nice distraction from my day job!!
-- 🌱 I’m currently learning .... an eclectic range of things
+- 👀 I’m interested in learning about linux, Jekyll, window managers and how to configure them all... it's just a nice distraction from my day job!!
+- 🌱 I’m currently learning .... an eclectic range of things!!  Just depends on what I'm feeling like on the day.
 
 
 <!---
